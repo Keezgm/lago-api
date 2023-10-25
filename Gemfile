@@ -13,6 +13,7 @@ gem 'clockwork', require: false
 gem 'puma', '~> 5.6'
 gem 'rails', '~> 7.0.7'
 gem 'sidekiq'
+gem 'sprockets-rails'
 
 # Security
 gem 'bcrypt'
